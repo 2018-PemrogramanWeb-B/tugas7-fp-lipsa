@@ -1,0 +1,27 @@
+* {
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 40px;
+	text-align: center;
+	position: relative;
+}
+
+p {
+	text-align: justify;
+}
+
+button {
+	position: relative;
+	left: 50%;
+}
+
+body{
+	background: url(wp1.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	display: block;
+	background-size: cover;
+}
