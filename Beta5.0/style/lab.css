@@ -1,0 +1,83 @@
+body
+{
+    color:aliceblue;
+    background: url(../lab/logo/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.navbar {
+    width: 120%;
+}
+h1
+{
+    font-size:100px;
+    position:relative;
+    margin-left:750px;
+    top:-150px;
+}
+h1_1 
+{
+    font-size: 50px;
+    position: relative;
+    margin-left: 950px;
+    right: 200px;
+    top: -150px;
+}
+h4 
+{
+    font-size: 50px;
+    position: relative;
+    margin-left: 950px;
+    right: 200px;
+    top: -150px;
+}
+.logo_lab
+{
+    position: relative;
+    top: 50px;
+    left: 100px;
+    
+}
+.deskripsi {
+    font-size: 30px;
+    position: relative;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: -100px;
+}
+
+h2 {
+    font-size: 50px;
+    position: relative;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    padding-top: 100px;
+}
+
+p {
+    font-size: 30px;
+    position: relative;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+pre {
+    color:aliceblue;
+    font-size: 20px;
+    position: relative;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+.pre1 {
+    background-color: #1e73ff;
+    padding: 10px
+}
+
+.pre2
+{
+    padding: 10px;
+}
