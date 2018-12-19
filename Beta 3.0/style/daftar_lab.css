@@ -1,0 +1,87 @@
+body {
+    margin-top: 0px;
+    padding-bottom: 50px;
+    background-color: dodgerblue;
+}
+
+.gambar{
+    height:160px;
+}
+
+.container-fluid {
+    margin: -25px -3px 0px -20px;
+}
+
+.ajk {
+    opacity: 0.6;
+    transition: 0.3s;
+    background-color: #1e63ff;
+}
+
+.ajk:hover {
+    opacity: 1
+}
+.mi {
+    opacity: 0.6;
+    transition: 0.3s;
+    background-color: #1e63ff;
+}
+
+    .mi:hover {
+        opacity: 1
+    }
+.dtk {
+    opacity: 0.6;
+    transition: 0.3s;
+    background-color: #1e73ff;
+}
+
+    .dtk:hover {
+        opacity: 1
+    }
+.igs {
+    opacity: 0.6;
+    transition: 0.3s;
+    background-color: #1e73ff;
+}
+
+    .igs:hover {
+        opacity: 1
+    }
+.kcv {
+    opacity: 0.6;
+    transition: 0.3s;
+    background-color: #1e83ff;
+}
+
+    .kcv:hover {
+        opacity: 1
+    }
+.kbj {
+    opacity: 0.6;
+    transition: 0.3s;
+    background-color: #1e83ff;
+}
+
+    .kbj:hover {
+        opacity: 1
+    }
+.rpl {
+    opacity: 0.6;
+    transition: 0.3s;
+    background-color: dodgerblue;
+}
+
+    .rpl:hover {
+        opacity: 1
+    }
+.alpro {
+    opacity: 0.6;
+    transition: 0.3s;
+    background-color: dodgerblue;
+}
+
+    .alpro:hover {
+        opacity: 1
+    }
+    
